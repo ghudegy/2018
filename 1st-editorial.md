@@ -1,6 +1,7 @@
 # 제 1회 구데기컵 에디토리얼
 
 - 대회 공지사항: https://www.acmicpc.net/board/view/23211
+- 대회 링크: https://www.acmicpc.net/contest/view/278
 - 대회 다시 풀어보기: https://www.acmicpc.net/category/detail/1858
 - 대회 관련 공지사항: https://www.acmicpc.net/board/view/23679
 
