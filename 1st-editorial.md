@@ -70,7 +70,7 @@
 - 해결방법 2 - O(n): 일일이 숫자들을 기록한다. 검토하는 방법에는 여러 가지가 있다.
   - 검토도 직접 일일이 읽어가며 한다.
 
-  - 작성한 DB를 이용하여 비슷한 이미지를 만들어내고 [이미지 diff](online-image-comparison.com)로 비교하여 실수를 바로잡는다. [예시 코드](./files/kudeki-check.py)
+  - 작성한 DB를 이용하여 비슷한 이미지를 만들어내고 [이미지 diff](https://online-image-comparison.com)로 비교하여 실수를 바로잡는다. [예시 코드](./files/linear-algebra-check.py)
 
 - 해결방법 3 - O(1): 사실 이 책의 표지에 나와있는 수열은 [LCG](https://en.wikipedia.org/wiki/Linear_congruential_generator)를 이용하여 제작되었다. 그에 사용된 계수는 책 내용에 있으므로, 이를 이용하여 답을 검토하거나 문제를 푸는 데에 사용할 수 있다. (단, 이 방법을 사용하려면 정말 책을 가지고 있어야 한다.)
 
