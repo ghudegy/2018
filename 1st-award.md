@@ -1,5 +1,5 @@
 - 아프리카 청춘이다 상 (Africa 문제를 제일 처음 푼 사람): 100조달러 (sgc109)
-- 세종대왕상 (Binary Game 정답 코드 중 최소길이): Short Coding ~職人達の技法~ (절판된 관계로 중고본으로 드립니다) (whdgnsdl887)
+- 세종대왕상 (Binary Game 정답 코드 중 최소길이): Short Coding \~職人達の技法\~ (절판된 관계로 중고본으로 드립니다) (whdgnsdl887)
 - 사자상 (Drawing Character를 출제자가 의도한 풀이대로 푼 사람): 메가바디필로우-라이언 (없음) 
 - 메시아상 (Glen을 푼 사람 중 랜덤): OneShot (tncks0121)
 - 좌경룡상 ('모든 문제가 한 명 이상에게 풀릴 것'이라는 조건을 만족시키도록 마지막까지 안 풀린 문제를 처음으로 푼 사람): 2017 ACM-ICPC Daejeon Regional 풍선 (없음)
