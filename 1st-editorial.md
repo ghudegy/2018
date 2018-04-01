@@ -72,7 +72,7 @@
 
   - 작성한 DB를 이용하여 비슷한 이미지를 만들어내고 [이미지 diff](https://online-image-comparison.com)로 비교하여 실수를 바로잡는다. [예시 코드](./files/linear-algebra-check.py)
 
-- 해결방법 3 - O(1): 사실 이 책의 표지에 나와있는 수열은 [LCG](https://en.wikipedia.org/wiki/Linear_congruential_generator)를 이용하여 제작되었다. 그에 사용된 계수는 책 내용에 있으므로, 이를 이용하여 답을 검토하거나 문제를 푸는 데에 사용할 수 있다. (단, 이 방법을 사용하려면 정말 책을 가지고 있어야 한다.)
+- 해결방법 3 - O(1): 사실 이 책의 표지에 나와있는 수열은 [LCG](https://en.wikipedia.org/wiki/Linear_congruential_generator)를 이용하여 제작되었다. 그에 관한 구체적인 내용이 책에 있으므로, 이를 이용하여 답을 검토하거나 문제를 푸는 데에 사용할 수 있다. (단, 이 방법을 사용하려면 정말 책을 가지고 있어야 한다.) [EDIT: `1015568748` 으로 구글에 검색해보면 [여기](http://www.math.snu.ac.kr/~islee/errata4.pdf)에서 그 내용을 볼 수 있다.]
 
 LCG에 사용된 계수들을 모를 경우, 이미지프로세싱을 구현하여 답을 빨리 찾을지, 그럴 시간에 차라리 노가다를 할 지 갈등하게 하는 것이 이 문제의 구데기 요소이다.
 ### 🍀. Lotto
