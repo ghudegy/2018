@@ -29,7 +29,7 @@
 
 3. "most youtube watches" 등을 검색해서 위키백과의 "List_of_most-viewed_YouTube_videos" 문서로 들어간다. "Historical_most_viewed_videos" 항목에서 정답 seeyouagain을 알 수 있다. despacito라는 오답이 많이 제출되었다. seeyouagain이 1위를 차지한 기간이 25일뿐이라서 오해의 소지가 있을 수 있다.
 
-4. "house arrest during nobel prize" 등을 검색하거나 노벨상 홈페이지에 들어가면 정답 aungsansuukyi를 알 수 있다. 참고로 liuxiaobo는 정답이 아니다. 그는 그냥 감금 상태였고, 그의 아내가 가택연금을 당한 적이 있을 뿐이다.
+4. "house arrest during nobel prize" 등을 검색하거나 노벨상 홈페이지에 들어가면 정답 aungsansuukyi를 알 수 있다. liuxiaobo라는 오답이 많이 제출되었다. 그는 그냥 감금 상태였고, 그의 아내가 가택연금을 당한 적이 있을 뿐이다.
 
 5. 가장 작은 국가는 바티칸 시국, 그 다음은 모나코이다. 구글 맵에서 "vatican city to monaco"를 검색하면 정답 7을 얻는다.
 
