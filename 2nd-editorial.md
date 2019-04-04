@@ -287,4 +287,11 @@ https://github.com/dj-shin/gitchain 와 같은 채굴 자동화 스크립트를 
 
 등이 있다.
 
-"사람이 풀 수 있는 문제를 지향"하는 구데기컵의 가치관에 어긋나는 문제가 아니냐고 반문할 수 있지만, 출제자는 이 문제를 사람이 풀 수 있다고 믿는다. 따라서 부분점수 문제로 바꾸고 이 문서에 일부 테스트케이스를 공개할 계획이다.
+"사람이 풀 수 있는 문제를 지향"하는 구데기컵의 가치관에 어긋나는 문제가 아니냐고 반문할 수 있지만, 출제자는 이 문제를 사람이 풀 수 있다고 믿는다. 따라서 부분점수 문제로 바꿀 계획이고, 테스트케이스 일부를 여기에 공개한다.
+
+Input | Output |
+--- | --- |
+[1.in](files/emoji-1.in) | [1.out](files/emoji-1.out) |
+[4.in](files/emoji-4.in) | [4.out](files/emoji-4.out) |
+[5.in](files/emoji-5.in) | [5.out](files/emoji-5.out) |
+[8.in](files/emoji-8.in) | [8.out](files/emoji-8.out) |
