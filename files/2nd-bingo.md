@@ -43,7 +43,7 @@ D1과 D4는 같은 색이다. 둘 다 검은 색이라면 B3도 검은 색이 �
 
 <img src=https://imgur.com/cYYmEMS.png height="400">
 
-이제 B5의 색만 결정하면 된다. B5를 색칠한 답안을 X, 색칠하지 않은 답안을 Y라고 하자.
+이제 B5의 색만 결정하면 된다. B5를 색칠하지 않은 답안을 X, 색칠한 답안을 Y라고 하자.
 
 <img src=https://imgur.com/n0nb10O.png height="150">
 
