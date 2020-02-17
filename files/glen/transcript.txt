@@ -1,0 +1,90 @@
+[alula_gasp] MOM YOU'RE NOT GONNA BELIEVE WHAT HAPPENED\nTODAY WE MET THE MESSIAH AND
+END OF DIALOGUE
+
+
+[calamus_shock] Niko! Alula just disappeared again!
+[niko_surprised] What? She was with us until five minutes ago!
+[niko_shock] She stayed in the front yard, didn't she?
+[calamus_sad] It seems they started to invade the front\nyard now.
+[niko_eyeclosed] It's getting more and more dangerous...
+[niko_speak] I think she is trapped in the same place.\nWe should go there right now!
+-- insert "a few minutes later" here --
+[alula_oh] Calamus! Niko!
+[calamus_shock] Alula! Are you okay?
+[alula_gasp2] Yes!
+[alula_pout] I can't get out of here though...
+[niko_speak] Don't worry! We will find a way!
+[calamus] So, how did you save her back then?
+[niko] There should be a set of tiles arranged\nin a rectangle in this room.
+[niko_speak] If you step on the tile, some mark\nappears on the tile!
+[calamus_speak] Oh! I think I stepped on one of them.
+[calamus] And if I step on it again...
+[calamus_speak] The mark disappears.
+[niko] Using these tiles, you are supposed to\ndraw a shape. That's the end.
+[calamus] Then... They just disappear?
+[niko] I... don't really know how it works.
+[niko] Anyway, that's basically the whole thing.\nBut...
+[niko_what] This room used to be much smaller than\nright now...
+[alula_gasp2] The walls moved by themselves!
+[niko_wtf2] How did that happen?
+[calamus_heh] I had a feeling that this room was\nmuch larger than I remembered.
+[calamus] What is the shape that you had to draw?
+[niko] It was something I saw here and there.\nIt looked like the sun!
+[calamus_speak] Oh! I think I know what you're talking\nabout.
+[niko] Actually, I had no idea that was the\nanswer.
+[niko_speak] Coder seemed to know, though!
+[niko] So, maybe Coder knows what we are supposed\nto draw this time.
+[alula_gasp] Oh, and something is written here!
+[niko] Huh?
+[alula] It says... Niko must start on the\nspecific position.
+[alula] One step to the left of the upper left corner\ntile.
+[alula_speak] I have no idea what that means, but that\nsounds strange!
+[niko] Aha! So I should be standing there...
+[niko] Weird, that was not needed when I first\nsaved Alula...
+[calamus] I wonder who is designing these puzzles.
+[calamus_sad] What's really happening to this world?
+[alula] And, Niko must move at most three times?
+[niko_what] Only three times?
+[alula_gasp2] Oh! Number of tiles!
+[calamus] Three times the number of tiles?
+[alula_gasp] Yes!
+[alula] If Niko moves too much, Coder will get\nTeullyeotsumnida.
+[alula_speak] That sounds like something Magpie would\nhave!
+[niko] Teul what? Who is Magpie?
+[alula] Y'know, the trader guy!
+[alula_speak] He collects all kinds of funny stuff!
+[niko_speak] Oh! I think I met him before.
+[alula] And finally, if there is no solution,\nWrite -1!
+[niko] I have a pen, but where should I write that?\nCalamus, do you have some paper?
+[calamus] Nope.
+[niko_eyeclosed] Those messages are cryptic...
+[calamus_speak] I have a guess... Maybe those messages\nare directed to Coder.
+[calamus] So it's Coder who has to write -1\nsomewhere.
+[niko] Makes sense! And maybe teullyeot something\nis a bad thing to Coder.
+[alula_speak] Teullyeotsumnida!
+[calamus] Anyway, we have to wait for Coder to\nanswer, right?
+[alula_gasp] Coder will save us!
+[niko] M-hm!
+END OF DIALOGUE
+
+[input]
+
+On the first line, I will give two positive integers N and M.
+
+N is the number of rows, and M is the number of columns.
+
+Both integers are at most 100.
+
+Each of the next N lines will describe each row of the painting Niko will have to draw.
+
+The cells form a rectangle, remember?
+
+"#" means the mark is on that cell, and "." means the mark is not on that cell.
+
+[output]
+
+Tell Niko exactly how they should move.
+
+"U" for up, "D" for down, "L" for left, and "R" for right.
+
+Niko is allowed to go out of the rectangle.
