@@ -1,4 +1,4 @@
 # Requirements
 
-* ±Û²Ã TerminusTTF-Bold-4.46.0.ttf
+* ê¸€ê¼´ TerminusTTF-Bold-4.46.0.ttf
 * Python PIL
