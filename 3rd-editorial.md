@@ -13,7 +13,7 @@
 
 *Speedrun Edition 최고 득점자: rubix (1분, 2147483647점)*
 
-*Regular Edition 최고 득점자: 없음 (버그가 발생하여 제출이 불가능해졌다.)*
+*Regular Edition 최고 득점자: rubix (5분, 2147483647점)*
 
 *Marathon Edition 최고 득점자: kyaryunha_cpp (8분, 2147483647점)*
 
