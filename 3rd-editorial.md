@@ -368,11 +368,11 @@ QR 코드를 찍어 `MADE BY KIPA`를 얻을 수 있습니다. 따라서 첫째 
 
 이를 통해 11차원으로의 확장도 문제 없이 생각해낼 수 있습니다.
 
-11차원에서의 ans는 2<sup>11</sup> = 1,024개의 항으로 계산할 수 있으며, 각각의 항의 절댓값은 *D*<sub>(*a*<sub>1</sub> &minus; 1)(*b*<sub>1</sub> &minus; 1)(*c*<sub>1</sub> &minus; 1)(*d*<sub>1</sub> &minus; 1)(*e*<sub>1</sub> &minus; 1)(*f*<sub>1</sub> &minus; 1)(*g*<sub>1</sub> &minus; 1)(*h*<sub>1</sub> &minus; 1)(*i*<sub>1</sub> &minus; 1)(*j*<sub>1</sub> &minus; 1)(*k*<sub>1</sub> &minus; 1)</sub>, *D*<sub>(*a*<sub>1</sub> &minus; 1)(*b*<sub>1</sub> &minus; 1)(*c*<sub>1</sub> &minus; 1)(*d*<sub>1</sub> &minus; 1)(*e*<sub>1</sub> &minus; 1)(*f*<sub>1</sub> &minus; 1)(*g*<sub>1</sub> &minus; 1)(*h*<sub>1</sub> &minus; 1)(*i*<sub>1</sub> &minus; 1)(*j*<sub>1</sub> &minus; 1)*k*<sub>2</sub></sub>, &hellip;, *D*<sub>*a*<sub>2</sub>*b*<sub>2</sub>*c*<sub>2</sub>*d*<sub>2</sub>*e*<sub>2</sub>*f*<sub>2</sub>*g*<sub>2</sub>*h*<sub>2</sub>*i*<sub>2</sub>*j*<sub>2</sub>*k*<sub>2</sub></sub>가 됩니다. 또한 이렇게 표현된 각 항에서 부호는 아래첨자에 (*x*<sub>1</sub> &minus; 1) 꼴이 홀수 번 등장하는지 짝수 번 등장하는지에 따라 결정되며, 홀수 개일 때는 (&minus;), 짝수 개일 때는 (+)가 됩니다. 이를 이용해 전처리 O(*mnopqrstuvw*), 쿼리 O(1)로 총 O(*mnopqrstuvw* + *з*)만에 해결할 수 있습니다.
+11차원에서의 ans는 2<sup>11</sup> = 2,048개의 항으로 계산할 수 있으며, 각각의 항의 절댓값은 *D*<sub>(*a*<sub>1</sub> &minus; 1)(*b*<sub>1</sub> &minus; 1)(*c*<sub>1</sub> &minus; 1)(*d*<sub>1</sub> &minus; 1)(*e*<sub>1</sub> &minus; 1)(*f*<sub>1</sub> &minus; 1)(*g*<sub>1</sub> &minus; 1)(*h*<sub>1</sub> &minus; 1)(*i*<sub>1</sub> &minus; 1)(*j*<sub>1</sub> &minus; 1)(*k*<sub>1</sub> &minus; 1)</sub>, *D*<sub>(*a*<sub>1</sub> &minus; 1)(*b*<sub>1</sub> &minus; 1)(*c*<sub>1</sub> &minus; 1)(*d*<sub>1</sub> &minus; 1)(*e*<sub>1</sub> &minus; 1)(*f*<sub>1</sub> &minus; 1)(*g*<sub>1</sub> &minus; 1)(*h*<sub>1</sub> &minus; 1)(*i*<sub>1</sub> &minus; 1)(*j*<sub>1</sub> &minus; 1)*k*<sub>2</sub></sub>, &hellip;, *D*<sub>*a*<sub>2</sub>*b*<sub>2</sub>*c*<sub>2</sub>*d*<sub>2</sub>*e*<sub>2</sub>*f*<sub>2</sub>*g*<sub>2</sub>*h*<sub>2</sub>*i*<sub>2</sub>*j*<sub>2</sub>*k*<sub>2</sub></sub>가 됩니다. 또한 이렇게 표현된 각 항에서 부호는 아래첨자에 (*x*<sub>1</sub> &minus; 1) 꼴이 홀수 번 등장하는지 짝수 번 등장하는지에 따라 결정되며, 홀수 개일 때는 (&minus;), 짝수 개일 때는 (+)가 됩니다. 이를 이용해 전처리 O(*mnopqrstuvw*), 쿼리 O(1)로 총 O(*mnopqrstuvw* + *з*)만에 해결할 수 있습니다.
 
 ## 서브태스크 4
 
-포함 배제의 원리를 이용해 전처리를 했다면 1,024 &times; *mnopqrstuvw*번 정도의 덧셈/뺄셈 연산을 수행해야 합니다. 하지만 더 효율적으로 전처리를 하는 방법들이 존재합니다. 이러한 방법들을 적절히 이용한다면 서브태스크 4를 해결할 수 있습니다.
+포함 배제의 원리를 이용해 전처리를 했다면 2,048 &times; *mnopqrstuvw*번 정도의 덧셈/뺄셈 연산을 수행해야 합니다. 하지만 더 효율적으로 전처리를 하는 방법들이 존재합니다. 이러한 방법들을 적절히 이용한다면 서브태스크 4를 해결할 수 있습니다.
 
 # 👏. 0초 후에 제출할 수 있습니다.
 
