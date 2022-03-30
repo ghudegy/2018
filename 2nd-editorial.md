@@ -307,8 +307,6 @@ GPU 프로그래밍으로 SHA1 해시 계산 알고리즘을 구현하여, CPU�
 
 같은 숫자를 N번 출력하면 "Codes from the Book"에 들어갈 정도로 아름답지 않아서 "틀렸습니다"를 받는다.
 
-대회 공지사항을 읽어 보면 이 문제의 풀이를 공개하는 공지와 풀이의 최초 유포자에게 책임을 묻겠다는 공지를 볼 수 있다. 이것은 "Due to ugly and unethical behavior"로 논란이 된 [Technocup 2019: Final Round](https://codeforces.com/blog/entry/65664)에 대한 레퍼런스이다.
-
 ## 🐱. 이모지
 
 **첫 해결:** rubix (종료 이후)
